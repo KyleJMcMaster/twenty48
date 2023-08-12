@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "twenty48game"
+name = "twenty48"
 version = "0.0.1"
 authors = [
   { name="Kyle McMaster", email="kyle.mcmaster02@gmail.com" },
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/KyleJMcMaster/twenty48game"
-"Bug Tracker" = "https://github.com/KyleJMcMaster/twenty48game/issues"
+"Homepage" = "https://github.com/KyleJMcMaster/twenty48"
+"Bug Tracker" = "https://github.com/KyleJMcMaster/twenty48/issues"
