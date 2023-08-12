@@ -1,4 +1,4 @@
-from Board import Board
+from twenty48.Board import Board
 from typing import List
 
 

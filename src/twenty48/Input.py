@@ -1,6 +1,6 @@
 # Input is an abstract class which provides inputs to the game
 from abc import ABC, abstractmethod
-from Board import Board
+from twenty48.Board import Board
 
 
 

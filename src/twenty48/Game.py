@@ -4,11 +4,11 @@
 # AIs can only interface with up,down,left,right movements, this will prevent possible
 # cheating
 
-from Board import Board
-from Display import Display, TextDisplay
-from Input import Input, TextInput
+from twenty48.Board import Board
+from twenty48.Display import Display, TextDisplay
+from twenty48.Input import Input, TextInput
 import time
-from GameInformation import GameInformation
+from twenty48.GameInformation import GameInformation
 
 class Game:
 

@@ -4,7 +4,7 @@
 
 from abc import ABC, abstractmethod
 import tkinter as tk
-from Board import Board
+from twenty48.Board import Board
 from numpy import ndarray
 import colr
 
